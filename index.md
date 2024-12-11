@@ -6,3 +6,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Manage projects
+- [ ] Follow ups
+- [ ] Execute plans
